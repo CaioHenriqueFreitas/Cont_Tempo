@@ -6,3 +6,5 @@ MySQL database. It was made using a local network, because the internet in the u
 indicating in which process the person was. After that, in the "server" (my computer) we made a report with the times from each person, 
 and treated then using Excel in order to prove that the called "Dead time" (when the blood donor has to wait until pass to the next step)
 was almost vanquished using the schedule website.
+
+The website may not work properly because the databases are missing.
