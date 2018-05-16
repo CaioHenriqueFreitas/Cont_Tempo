@@ -1,0 +1,21 @@
+<html>
+<head>
+	<link rel="stylesheet" href="./material.min.css">
+	<link rel="stylesheet" href="./my-style.css">	
+	<script src="./material.min.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body bgcolor="#E0E4CC">
+	<div>
+			
+	</div>
+	<div id="mydiv">
+			<div align="center"><h4>Selecione o seu posto:</h4>
+			<br><br><a href="./posto_a.php"><button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Posto A</button></a><br><br>
+			<a href="./posto_b.php"><button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Posto B</button></a><br>
+			<br><a href="./posto_c.php"><button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Posto C</button></a><br>
+			</div>
+	</div>
+</body>
+</html> 
